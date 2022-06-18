@@ -36,4 +36,16 @@ Tracking my progress through the course.
 - Alternative Syntax
 - Mind Grenade
 
+#### Section 2: Built-In Modules
+
+- Built-In Module Intro
+- Os Module
+- Path Module
+- Fs Module (Sync)
+- Fs Module (Async)
+- Sync Vs Async
+- Http Intro
+- Http Module (Setup)
+- Http Module (More Features)
+
 [Back To The Top](#node-and-express-tutorial)
