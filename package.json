@@ -1,0 +1,26 @@
+{
+  "name": "and-express-tutorial",
+  "version": "1.0.0",
+  "description": "[Video Link](https://www.youtube.com/watch?v=TNV0_7QRDwY)",
+  "main": "1-intro.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spencer-Sch/node-and-express-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spencer-Sch/node-and-express-tutorial/issues"
+  },
+  "homepage": "https://github.com/Spencer-Sch/node-and-express-tutorial#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}

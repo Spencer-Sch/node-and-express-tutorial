@@ -48,4 +48,15 @@ Tracking my progress through the course.
 - Http Module (Setup)
 - Http Module (More Features)
 
+#### Section 3: NPM
+
+- NPM Info
+- NPM Command
+- First Package
+- Share Code
+- Nodemon
+- Uninstall
+- Global Install
+- Package-Lock.Json
+
 [Back To The Top](#node-and-express-tutorial)
