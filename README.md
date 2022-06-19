@@ -59,4 +59,24 @@ Tracking my progress through the course.
 - Global Install
 - Package-Lock.Json
 
+#### Section 4: Important Topics
+
+- Important Topics Intro
+- Event Loop
+- Event Loop Slides
+- Event Loop Code Examples
+- Async Patterns - Blocking Code
+- Async Patterns - Setup Promises
+- Async Patterns - Refactor To Async
+- Async Patterns - Node's Native Option
+- Events Info
+- Events Emitter - Code Example
+- Events Emitter - Additional Info
+- Events Emitter - Http Module Example
+- Streams Intro
+- Streams - Read File
+- Streams - Additional Info
+- Streams - Http Example
+- End Of Node Tutorial Module
+
 [Back To The Top](#node-and-express-tutorial)
