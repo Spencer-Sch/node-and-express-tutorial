@@ -79,4 +79,16 @@ Tracking my progress through the course.
 - Streams - Http Example
 - End Of Node Tutorial Module
 
+#### Section 5: Creating Servers
+
+- HTTP Request/Response Cycle
+- Http Messages
+- Starter Project Install
+- Starter Overview
+- Http Basics
+- Http - Headers
+- Http - Request Object
+- Http - Html File
+- Http - App Example
+
 [Back To The Top](#node-and-express-tutorial)
