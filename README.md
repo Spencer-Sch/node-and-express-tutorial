@@ -91,4 +91,11 @@ Tracking my progress through the course.
 - Http - Html File
 - Http - App Example
 
+#### Section 6: Express
+
+- Express Info
+- Express Basics
+- Express - App Example
+- Express - All Static
+
 [Back To The Top](#node-and-express-tutorial)
