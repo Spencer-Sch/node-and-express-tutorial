@@ -98,4 +98,14 @@ Tracking my progress through the course.
 - Express - App Example
 - Express - All Static
 
+#### Section 7: API
+
+- API Vs SSR
+- JSON Basics
+- Params, Query String - Setup
+- Route Params
+- Params - Extra Info
+- Query String
+- Additional Params And Query String Info
+
 [Back To The Top](#node-and-express-tutorial)
