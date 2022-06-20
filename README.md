@@ -108,4 +108,11 @@ Tracking my progress through the course.
 - Query String
 - Additional Params And Query String Info
 
+#### Section 8: Middleware
+
+- Middleware - Setup
+- APP.USE
+- Multiple Middleware Functions
+- Additional Middleware Info
+
 [Back To The Top](#node-and-express-tutorial)
