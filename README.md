@@ -125,4 +125,9 @@ Tracking my progress through the course.
 - Methods - PUT
 - Methods - DELETE
 
+#### Section 10: Express Router
+
+- Express Router - Setup
+- Express Router - Controllers
+
 [Back To The Top](#node-and-express-tutorial)
