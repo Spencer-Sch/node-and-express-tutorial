@@ -2,7 +2,8 @@
 
 #### by Coding Addict
 
-[Video Link](https://www.youtube.com/watch?v=TNV0_7QRDwY)
+[Video Link - Basics](https://www.youtube.com/watch?v=TNV0_7QRDwY)
+[Video Link - Projects](https://www.youtube.com/watch?v=rltfdjcXjmk)
 
 ---
 
@@ -10,13 +11,20 @@
 
 Tracking my progress through the course.
 
----
-
-## Course Repo
+#### Course Repo
 
 [Repo](https://github.com/john-smilga/node-express-course)
 
 ---
+
+## Course Chapters
+
+- [Basics](#node-and-express-intro)
+- [Projects](#node-and-express-projects)
+
+---
+
+### Node and Express Intro
 
 #### Section 1: Intro
 
@@ -79,6 +87,8 @@ Tracking my progress through the course.
 - Streams - Http Example
 - End Of Node Tutorial Module
 
+[Back To The Top](#node-and-express-tutorial)
+
 #### Section 5: Creating Servers
 
 - HTTP Request/Response Cycle
@@ -130,6 +140,16 @@ Tracking my progress through the course.
 - Express Router - Setup
 - Express Router - Controllers
 
-Course Complete!
+Chapter Complete!
+
+[Back To The Top](#node-and-express-tutorial)
+
+---
+
+### Node and Express Projects
+
+#### Project #1 - Task Manager
+
+- To do...
 
 [Back To The Top](#node-and-express-tutorial)
