@@ -115,4 +115,14 @@ Tracking my progress through the course.
 - Multiple Middleware Functions
 - Additional Middleware Info
 
+#### Section 9: Methods
+
+- Methods - GET
+- Methods - POST
+- Methods - POST (Form Example)
+- Methods - POST (Javascript Example)
+- Install Postman
+- Methods - PUT
+- Methods - DELETE
+
 [Back To The Top](#node-and-express-tutorial)
