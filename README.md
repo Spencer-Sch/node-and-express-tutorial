@@ -150,6 +150,6 @@ Chapter Complete!
 
 #### Project #1 - Task Manager
 
-- Completed through 02:20:04 - to be continued...
+- Completed through 03:04:15 - to be continued...
 
 [Back To The Top](#node-and-express-tutorial)
