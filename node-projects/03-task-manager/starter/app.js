@@ -1,23 +1,25 @@
 const express = require('express');
 const app = express();
 const taskRoutes = require('./routes/tasks');
-
-// middleware
-
-app.use(express.json());
+const connectDB = require('./db/connect');
+require('dotenv').config();
 
 const port = 3000;
 
-app.get('/hello', (req, res) => {
-  res.send('Task manager app');
-});
+// middleware
+app.use(express.static('./public'));
+app.use(express.json());
 
+// routes
 app.use('/api/v1/tasks', taskRoutes);
 
-// app.get('/api/v1/tasks');
-// app.post('/api/v1/tasks');
-// app.get('/api/v1/tasks/:id');
-// app.patch('/api/v1/tasks/:id');
-// app.delete('/api/v1/tasks/:id');
+const start = async () => {
+  try {
+    await connectDB(process.env.MONGO_URI);
+    app.listen(port, console.log(`server is listening on port ${port}...`));
+  } catch (err) {
+    console.log(err);
+  }
+};
 
-app.listen(port, console.log(`server is listening on port ${port}...`));
+start();
