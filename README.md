@@ -154,6 +154,6 @@ Chapter Complete!
 
 #### Project #2 - Store API
 
-- completed through 03:51:10 - to be continued...
+- Complete!
 
 [Back To The Top](#node-and-express-tutorial)
