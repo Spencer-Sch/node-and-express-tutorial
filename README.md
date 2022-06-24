@@ -158,6 +158,6 @@ Chapter Complete!
 
 #### Project #3 - JWT Basics
 
-- completed through 05:40:12 - to be continued...
+- Complete!
 
 [Back To The Top](#node-and-express-tutorial)
