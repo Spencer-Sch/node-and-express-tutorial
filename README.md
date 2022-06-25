@@ -162,6 +162,8 @@ Chapter Complete!
 
 #### Project #4 - Jobs API
 
-- completed through 08:04:34 - to be continued...
+- Complete!
+
+Chapter Complete!
 
 [Back To The Top](#node-and-express-tutorial)
